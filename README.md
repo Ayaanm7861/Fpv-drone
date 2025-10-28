@@ -14,4 +14,3 @@ Beeper: £13
 Propellers: £4 (for a set of 4)
 
 Total: Total: £303.50
-
