@@ -12,3 +12,23 @@ The updated design now includes skid guards that provide landing clearance, abso
 ![IMG-20251026-WA0011](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--dac8f70081590fd62e162897c6a7b24c4002e7c5/IMG-20251026-WA0011.jpg)![IMG-20251026-WA0020](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a9ac9b0afa0ec16a3795008f9bb1fc55d41b56f2/IMG-20251026-WA0020.jpg)![IMG-20251026-WA0010](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--cef4d342cbde48d0c86e09ba7963064280a3d195/IMG-20251026-WA0010.jpg)![IMG-20251026-WA0016](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcxNywicHVyIjoiYmxvYl9pZCJ9fQ==--2e28f5d6bc8d1bfdef15f557d1b8d22ebc8bae5f/IMG-20251026-WA0016.jpg)
   
 
+## 10/29/2025 - Parts list  
+
+Parts
+ESC+FC: £60
+Motors: £16 (per motor)
+Camera: £22
+VTX: £40
+Receiver and antenna: £12
+Frame: £30
+Patch antenna: (an antenna for long distances) £13
+Omnidirectional antenna: £23
+Extension cable for patch antenna: £3
+GPS: £17
+Battery straps (270x15): £2.50
+Beeper: £13
+Propellers: £4 (for a set of 4)
+
+Total: Total: £303.50![IMG-20251029-WA0003](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--37206260fef95180a50274399fcac08a3f2203dd/IMG-20251029-WA0003.jpg)
+  
+
