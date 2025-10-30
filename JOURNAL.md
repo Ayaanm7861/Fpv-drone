@@ -32,3 +32,33 @@ Propellers: £4 (for a set of 4)
 Total: Total: £303.50![IMG-20251029-WA0003](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--37206260fef95180a50274399fcac08a3f2203dd/IMG-20251029-WA0003.jpg)
   
 
+## 10/30/2025 - About the build  
+
+-Top Speed Target: Estimated to reach between 120 and 170 km/h based on component choices and motor abilities.  
+- Battery Weight: Approximately 220 g for the chosen 6S LiPo battery.  
+- Drone Frame Weight: Around 470 g without the battery.  
+- Total Expected Weight: About 690 g, including the battery.  
+- Frame: 5-inch carbon fibre X frame for strength and agility.  
+- Flight Control: Full manual mode without stabilization for a true FPV flying experience.  
+- video Transmission: Analogue VTX with a dual antenna setup (omnidirectional and patch) for a reliable FPV feed.  
+- Additional Features: Skid guards for protection on impact, GPS module for fail-safe operation, and a beeper for locating the drone.  
+
+- Flight controller and electronic speed controller stack.  
+- Brushless 1700Kv motors for aggressive flight.  
+- FPV camera and video transmitter.  
+- GPS, antennas, beeper, and other accessories.  
+
+Build Considerations
+
+- Careful assembly is needed for vibration isolation and antenna placement.  
+- Skid guards to enhance landing durability.  
+- Battery and weight balance are essential for the best flight performance.  
+
+ Next Steps
+
+- Finalize the purchase of all components listed in 'bom.csv'.  
+- Assemble the frame and mount components according to the design.  
+- Calibrate the flight controller and conduct initial tests.  
+- Start flight trials to reach speed and control objectives.  ![IMG-20251029-WA0020](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--df37c1ce7ee8ed01fb3362f148e56b908c986af8/IMG-20251029-WA0020.jpg)
+![IMG-20251029-WA0012](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcwNywicHVyIjoiYmxvYl9pZCJ9fQ==--6f4749f5e300c83087c230afc7a99d77a372f2e9/IMG-20251029-WA0012.jpg)  
+
